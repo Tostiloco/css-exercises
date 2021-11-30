@@ -1,0 +1,20 @@
+/* style.css */
+
+.class {
+    background-color: pink;
+    font-family: Verdana, sans-serif; 
+}
+.class.classdos {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #39FF14;
+    font-size: 24px;
+    font-weight: bold;
+}
