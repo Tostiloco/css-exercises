@@ -1,19 +1,19 @@
 /* style.css */
 
-.class {
-    background-color: pink;
+.odd {
+    background-color: rgb(255,105,180);
     font-family: Verdana, sans-serif; 
 }
-.class.classdos {
+.oddly-cool {
     font-size: 24px;
 }
 
-#blue {
-    color: #0000FF;
+#two {
+    color: hsl(199,77%,74%);
     font-size: 36px;
 }
 
-#green {
+#four {
     background-color: #39FF14;
     font-size: 24px;
     font-weight: bold;
